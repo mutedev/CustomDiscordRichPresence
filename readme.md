@@ -39,10 +39,6 @@ Upon running the application for the first time, the application will create an 
 **SmallImageText**: This is the text that will be shown upon hovering over the small image (shown in the bottom right corner of the presence image area. This will require SmallImageKey to be set and valid.
 
 
-
-## Contributing
-Feel free to contact me at myu@subsilence.nl if you want to contribute to this project
-
 ## ❤
 If you decide to use my code I'd appreciate you saying hi for a bit :D I'd love to hear what you want to make! 
 Feel free to contact me on Discord (Myu#0001) or Email (myu@subsilence.nl)
